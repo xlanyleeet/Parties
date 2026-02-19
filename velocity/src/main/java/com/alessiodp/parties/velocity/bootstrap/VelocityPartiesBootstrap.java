@@ -13,8 +13,7 @@ import com.velocitypowered.api.proxy.ProxyServer;
 import com.velocitypowered.api.proxy.server.RegisteredServer;
 import org.jetbrains.annotations.NotNull;
 import org.slf4j.Logger;
-
-import javax.inject.Inject;
+import com.google.inject.Inject;
 import java.nio.file.Path;
 import java.util.HashSet;
 import java.util.Set;
